@@ -1,0 +1,2 @@
+﻿hadoop2 HA配置相关设置
+1.只配置了namenode的HA，没有配置resuorcenode的HA
